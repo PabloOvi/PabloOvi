@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=E6E6E6&center=true&vCenter=true&width=600&lines=Frontend%20Developer;Ubicado%20en%20Buenos%20Aires%2C%20Argentina;Construyendo%20interfaces%20pulidas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=E6E6E6&center=true&vCenter=true&width=600&lines=Fullstack%20Developer;Ubicado%20en%20Buenos%20Aires%2C%20Argentina)](https://git.io/typing-svg)
 
 <br/>
 
