@@ -37,13 +37,13 @@
 <br/>
 
 <div align="center">
-  <img width="98%" src="https://raw.githubusercontent.com/DamRodriguez/DamRodriguez/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" style="border-radius:16px;" />
+  <img width="98%" src="https://raw.githubusercontent.com/PabloOvi/PabloOvi/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" style="border-radius:16px;" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=DamRodriguez&theme=dark&background=transparent&border=transparent&stroke=8b949e&ring=8b949e&fire=8b949e&currStreakNum=ffffff&currStreakLabel=8b949e&sideNums=c9d1d9&sideLabels=8b949e&dates=30363d" alt="GitHub Streak" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=PabloOvi&theme=dark&background=transparent&border=transparent&stroke=8b949e&ring=8b949e&fire=8b949e&currStreakNum=ffffff&currStreakLabel=8b949e&sideNums=c9d1d9&sideLabels=8b949e&dates=30363d" alt="GitHub Streak" />
 </div>
 
 <br/><br/>
@@ -56,17 +56,9 @@
 
 <div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
 
-<a href="https://damrod.dev"><img src="https://img.shields.io/badge/Portfolio-fff?style=for-the-badge&labelColor=0F0F0F&v=4" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/damianagustinrodriguez"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&labelColor=0F0F0F&v=4" alt="LinkedIn" /></a>
-<a href="mailto:damrod1999@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&labelColor=0F0F0F&v=4" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/pablo-oviedo-15aa8120b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&labelColor=0F0F0F&v=4" alt="LinkedIn" /></a>
+<a href="mailto:pablomoviedo99@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&labelColor=0F0F0F&v=4" alt="Email" /></a>
 
-</div>
-
-<br/><br/>
-
-<div align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=damrod99&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=damrod99&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify profile" width="48%" align="middle" /></a>&nbsp;
-  <img src="./gif/dancing-cat.gif" alt="Dancing cat" width="48%" align="middle" />
 </div>
 
 <br/>
