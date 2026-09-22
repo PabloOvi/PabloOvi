@@ -37,7 +37,7 @@
 <br/>
 
 <div align="center">
-  <img width="98%" src="./assets/github-contribution-grid-snake-dark" alt="Snake Animation" style="border-radius:16px;" />
+  <img width="98%" src="./assets/github-contribution-grid-snake-dark.svg" alt="Snake Animation" style="border-radius:16px;" />
 </div>
 
 <br/>
